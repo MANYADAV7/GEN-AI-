@@ -1,0 +1,39 @@
+Doctor: What is your patient ID?
+Patient: 1003
+
+Doctor: What is your age?
+Patient: 38
+
+Doctor: What is your gender?
+Patient: Female
+Patient: "Hello, Dr. Wu"
+Doctor: "Hello!"
+Doctor: "What are your main problems recently?"
+Patient: "I haven't been in a good mood the past two days"
+Patient: "The child's grades have not improved"
+Doctor: "Okay, let's talk."
+Doctor: "How long have you been feeling this way?"
+Patient: "Just these two days, my child's grades came down yesterday. He didn't do well in the test."
+Doctor: "Children's affairs are indeed important, but parents' emotions also have a certain impact on their children. How have you been feeling in the past two weeks?"
+Patient: "It was pretty good the past few days. I bought a stock before and it was doing pretty well."
+Doctor: "May I ask, is stock trading an interest of yours?"
+Patient: "It's okay to say it's just interest. After all, I'm in the finance industry."
+Doctor: "Children's performance matters are staged. Don't rush for success. Emotions cannot change the current situation. I think you can take some events to accompany your child recently to see where the performance problems lie."
+Patient: "Yeah, good doctor. I think so too"
+Doctor: "For you, you may be too busy at work. Why don't you try something you are interested in to adjust your mood?"
+Patient: "I have always liked dancing, and I even signed up for a dance class some time ago"
+Patient: "After all, I am nearly 40 years old, so I have to keep in shape"
+Doctor: "This is a great hobby. Have you persisted with it recently?"
+Patient: "Yes, I will take two classes every weekend"
+Patient: "When I have nothing to do, I will also practice with this mirror"
+Doctor: "Okay, I hope dancing can bring you a good mood."
+Doctor: "Okay, how is your sleep quality recently?"
+Patient: "It's very good. Maybe because of dancing, the quality of sleep is quite high"
+Doctor: "Okay, do you have a good appetite for all three meals?"
+Patient: "I have a good appetite and my husband is a good cook"
+Doctor: "Okay, it seems that you are very happy in life!"
+Doctor: "So, don't worry too much about your children, how about you adjust your own state?"
+Patient: "Life is quite happy."
+Patient: "Yeah, okay. Thank you doctor"
+Doctor: "Okay, okay, if there are no other questions, our consultation will end here."
+Patient: "Yeah, thank you for your hard work, Dr. Wu."

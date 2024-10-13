@@ -1,0 +1,45 @@
+Doctor: What is your patient ID?
+Patient: 102
+
+Doctor: What is your age?
+Patient: 19
+
+Doctor: What is your gender?
+Patient: Female
+
+Doctor: Please describe your social life at the *anonymized* campus. Are you actively participating in extracurricular activities, interacting with others, or taking initiative to socialize with others? 
+Patient: I am part of football team and a core member in Physics club and Singularity working team. I also make contacts with my seniors and other staffs for both personal and official discussions. I volunteer for community fests and other initiatives.
+
+Doctor:  Describe your typical daily Mood? 
+Patient: I always try to find happiness in every single moment of my life. But at times I turnout t be moody.
+
+Doctor:  Does your Mood remain steady or goes up and down throughout the day without any reason or on trivial matters? 
+Patient: My mood is dynamic. It goes up and down for  both valid and unknown reasons . I get upset on simple jokes and responses from my close circle.
+
+Doctor: How do you handle day-to-day irritations or frustrations? 
+Patient: I try to connect more with the Almighty through daily prayers. But mostly I prefer sleeping with no disturbance for hours. Nowadays I try to engage myself with a busy schedule and locations.
+
+Doctor: How do you handle pressure related to academics? 
+Patient: lately I started purposeful ignorance of academic pressure. I will engage my times studying or with close friend. I also try to phone my parents when I feel so exhausted.
+
+Doctor: Describe your ability to attend to the task at hand or concentrate on daily tasks (academic, non-academic)? 
+Patient: I am mostly able to focus on my task and complete on time. But when I am in a bad mood I will distract myself from the task with social media and resume when I feel fine.
+
+Doctor: Have you noticed any difficulties with memory, such as unable to register new information, forgetting recent events, or not able to recall older personal/factual events? 
+Patient: Yes I do, and only very lately. I find it very difficult to comprehend what I see and try reading. I also noticed forgetting recent events which where not very important but still to be considered. I also have difficulty in recalling but the least.
+
+Doctor: What do you do to feel better? For example, some people take caffeine, talk with people, or watch movies to feel better. 
+Patient: Sleep mostly. But if it is with communication gap, I only settle after conveying my last note. I also sing a song or try dancing in my room but I prefer privacy for this
+
+Doctor: Describe how supported you feel by others (e.g., friends, family) around you and how they help you? 
+Patient: I feel supported very less even from family. And so I don't expect any support from anyone and try to figure out all alone.
+
+Doctor: What do you usually do when you have a bad day or when you are not able to concentrate on work? 
+Patient: I sleep for hours or the entire day. I also get some ease after crying or talking about it. I used talk to myself which helped me figure out the situation and motivated to push through.
+
+Doctor:  Are you experiencing symptoms of stress, anxiety, or depression? If yes, describe the symptoms?
+Patient: Yes, all stress, anxiety and depression
+
+Doctor:  Are you doing anything (by self or help seeking) for the ongoing stress, anxiety, or depression, if any? If yes, what? 
+Patient: Yes, I'm reading books on self-development and self-improvement.
+

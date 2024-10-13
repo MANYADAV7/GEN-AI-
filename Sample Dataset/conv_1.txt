@@ -1,0 +1,45 @@
+Doctor: What is your patient ID?
+Patient: 101
+
+Doctor: What is your age?
+Patient: 19
+
+Doctor: What is your gender?
+Patient: Male
+
+Doctor: Please describe your social life at the *anonymized* campus. Are you actively participating in extracurricular activities, interacting with others, or taking initiative to socialize with others? 
+Patient: I'm don't participate in any extracurricular activities, however I have taken part in organizing some festivals. I interact with a lot of people on a daily basis, and sometimes I take initiative to socialize with others, but generally don't initiate talk with people I've not met yet.
+
+Doctor:  Describe your typical daily Mood? 
+Patient: My typical daily mood starts positive, sometimes neutral, and tends to be neutral by the end of the day
+
+Doctor:  Does your Mood remain steady or goes up and down throughout the day without any reason or on trivial matters? 
+Patient: My mood has rarely fluctuated without reason, however it does tend to go up for trivial reasons, my mood generally doesn't do down easily. 
+
+Doctor: How do you handle day-to-day irritations or frustrations? 
+Patient: I try to fix whatever is causing me to be irritated quickly and make sure that it doesn't bother me again. If I'm not able to fix the cause of my frustration, I try to ignore it to the best of my ability and try to not bother others.
+
+Doctor: How do you handle pressure related to academics? 
+Patient: I try to create different options to study and different ways to make sure I'm studying. I have changed my timetable many times and changed my study location to try and study better.
+
+Doctor: Describe your ability to attend to the task at hand or concentrate on daily tasks (academic, non-academic)? 
+Patient: I tend to get distracted fairly easily if I'm not too concentrated on my task at hand, however, I tend to be extremely efficient with my work if I actually concentrate on what I'm doing, studying I sometimes I have to force myself but I'm able to do this in the end.
+
+Doctor: Have you noticed any difficulties with memory, such as unable to register new information, forgetting recent events, or not able to recall older personal/factual events? 
+Patient: Nothing such that it affects my daily life, however I do tend to forget information about events and such if I'm not interested in them.
+
+Doctor: What do you do to feel better? For example, some people take caffeine, talk with people, or watch movies to feel better. 
+Patient: I tend to just hang out and talk with friends to feel better if I'm feeling particularly sad, but I also play video games or watch youtube videos to feel better in general.
+
+Doctor: Describe how supported you feel by others (e.g., friends, family) around you and how they help you? 
+Patient: I feel very supported by my friends and family, they are always there to take care of me and always help me when I ask for it
+
+Doctor: What do you usually do when you have a bad day or when you are not able to concentrate on work? 
+Patient: I spend the day trying to do something new, some activity that I have not done before or very little. If that doesn't work, I just hang out with friends and hope tomorrow will be better.
+
+Doctor:  Are you experiencing symptoms of stress, anxiety, or depression? If yes, describe the symptoms?
+Patient: I sometimes feel socially anxious, talking to new people is always scary and feels like an impossible task, sometimes I feel that people talk about me behind my back, and sometimes I just feel uncomfortable. 
+
+Doctor:  Are you doing anything (by self or help seeking) for the ongoing stress, anxiety, or depression, if any? If yes, what? 
+Patient: I try my best to make sure that anxiety doesn't overwhelm me, I talk to myself, encourage myself and make sure that any unnecessary thoughts are gone from my mind.
+

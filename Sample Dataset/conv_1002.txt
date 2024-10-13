@@ -1,0 +1,55 @@
+Doctor: What is your patient ID?
+Patient: 1002
+
+Doctor: What is your age?
+Patient: 22
+
+Doctor: What is your gender?
+Patient: Female
+
+Patient: "Hello doctor"
+
+Doctor: "Hello"
+
+Doctor: "Let's get started"
+Doctor: "What problems have you encountered recently?"
+Patient: "I am preparing for the exam recently, but I get sleepy while studying"
+
+Doctor: "Understand, do you feel tired every day and have no energy?"
+
+Patient: "Not very tired"
+Patient: "If you don't study, you will be very energetic"
+Patient: "I feel sleepy after reading a book for a while, especially in the morning when I get up early"
+Doctor: "You know, do you feel that you are not interested in learning?"
+
+Patient: "Because I have to endorse, it's really a bit boring. It's not as fun as watching TV or something."
+Doctor: "Hmm, besides watching TV, are you still interested in other things that you were interested in before?"
+
+Patient: "interested"
+Doctor: "Okay, I just mentioned that you will easily feel sleepy when studying after getting up early. How have you been sleeping recently?"
+
+Patient: "Sleep is about the same as before"
+Doctor: "How long does it take from lying down in bed to falling asleep at night?"
+
+Patient: "About 15 minutes"
+Doctor: "It sounds like you fell asleep well. Will you wake up easily?"
+
+Patient: "Maybe I'll get up for a WC"
+Doctor: "I understand, do you usually wake up earlier than the alarm clock in the morning?"
+
+Patient: "I used to set an alarm clock for 8 o'clock. After a while, I would automatically wake up a few minutes earlier every time. Gradually, the alarm clock has been changed to 7:30."
+Patient: "I don't know if I have formed a biological clock"
+Doctor: "I understand, so I sleep fairly regularly every day"
+
+Doctor: "In addition to being easily sleepy while studying, are there any other problems?"
+
+Patient: "No other problems for the time being"
+Doctor: "Okay, I understand. How are you feeling recently?"
+
+Patient: "Okay"
+Doctor: "I understand. It sounds like you have been feeling sleepy while studying recently due to preparations for exams, which makes you feel a little troubled. Don't worry too much. You can combine work and rest through exercise or other entertainment activities in your daily study life, and pay attention to relaxation."
+
+Doctor: "Okay, then our consultation ends here"
+
+Patient: "Okay"
+Patient: "Thank you"

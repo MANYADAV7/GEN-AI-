@@ -1,0 +1,30 @@
+Doctor: What is your patient ID?
+Patient: 8
+Doctor: What is your age?
+Patient: 27
+Doctor: What is your gender?
+Patient: Male
+Doctor: Please describe your social life at the IISERB campus. Are you actively participating in extracurricular activities, interacting with others, or taking initiative to socialize with others? 
+Patient: I love participating in such activities. Nowdays, due to PhD workload, don't get much time to indulge in extracurriculars, so i compensate it by spending more time with friends. 
+Doctor:  Describe your typical daily Mood? 
+Patient: I am mostly compsed, worried about the progress of my PHD sometimes. Mostly, i have high morale and i indulge in work enthusiastically.
+Doctor:  Does your Mood remain steady or goes up and down throughout the day without any reason or on trivial matters? 
+Patient: My mood almost remain steady, trivial matters does not affect much. Sometimes, unethical conduct of my colleagues bother me, but for a very small duration. 
+Doctor: How do you handle day-to-day irritations or frustrations? 
+Patient: I sleep well, talk to my friends. Always think of a better future. I tell myself if a work with compassion today, the coming years will be much better.
+Doctor: How do you handle pressure related to academics? 
+Patient: I try to separate my personal life from professional one. I believe academics is full of pressure, however you perform, pressure will always be there. So, don't let academic pressure destroy your personal space and mental peace, just deal it as any other profession.
+Doctor: Describe your ability to attend to the task at hand or concentrate on daily tasks (academic, non-academic)? 
+Patient: I can concentrate on tasks quite well. Although i am not able to follow the pre-decided timeline of the tasks, i do concentrate well at the task at hand.
+Doctor: Have you noticed any difficulties with memory, such as unable to register new information, forgetting recent events, or not able to recall older personal/factual events? 
+Patient: I don't have any such difficulty with memory. 
+Doctor: What do you do to feel better? For example, some people take caffeine, talk with people, or watch movies to feel better. 
+Patient: I am a hardcore tea-lover, 5-6 cups daily. So to feel better, tea is the first choice, second option i consider is to talk with people, rarely I watch movies to feel better.
+Doctor: Describe how supported you feel by others (e.g., friends, family) around you and how they help you? 
+Patient: I am lucky to have best of friends and family. Friends listen to my concerns and always provide some solution, family gives me the opportunity to focus on my career without worrying about anything else.
+Doctor: What do you usually do when you have a bad day or when you are not able to concentrate on work? 
+Patient: I take rest, sleep properly (thankfully tension does not disturb my sleep cycle), clean my room, working area, wash clothes, call family and friends.
+Doctor:  Are you experiencing symptoms of stress, anxiety, or depression? If yes, describe the symptoms?
+Patient: No
+Doctor:  Are you doing anything (by self or help seeking) for the ongoing stress, anxiety, or depression, if any? If yes, what? 
+Patient: No

@@ -1,0 +1,47 @@
+Doctor: What is your patient ID?
+Patient: 103
+
+Doctor: What is your age?
+Patient: 18
+
+Doctor: What is your gender?
+Patient: Male
+
+Doctor: Please describe your social life at the *anonymized* campus. Are you actively participating in extracurricular activities, interacting with others, or taking initiative to socialize with others? 
+Patient: yes i have been envolve in various talks organised by the different council.I am trying to explore different sports.especially lawn tennis and football. I have made some good friends and interacting seniors helps a lot .
+
+
+Doctor:  Describe your typical daily Mood? 
+Patient: Confused at times to how to move ahead what to follow .Otherwise pretty chill when i am with myy friends which helps a lot
+
+Doctor:  Does your Mood remain steady or goes up and down throughout the day without any reason or on trivial matters? 
+Patient: not really if i am indulge in doing some work and have a plan of doing something throuhout the it kind just go strainght and remains steady
+
+Doctor: How do you handle day-to-day irritations or frustrations? 
+Patient: Just talking to someone either your friends or family helps to deal all these situations pretty well. Finding solution to the problems which is causing you troubles and just talk to yourself helps me finding peace 
+
+
+Doctor: How do you handle pressure related to academics? 
+Patient: Regular studies and doing right things on daily basis helps in pressure handling in academics.All i can say is having a regular plan and consistency helps a lot
+
+Doctor: Describe your ability to attend to the task at hand or concentrate on daily tasks (academic, non-academic)? 
+Patient: Having pateince and belief in your work you are doing helps me to concentrate on daily tasks. Trying to explore diffenrent things and making it interesting also helps
+
+Doctor: Have you noticed any difficulties with memory, such as unable to register new information, forgetting recent events, or not able to recall older personal/factual events? 
+Patient: yes these things happens at some point of time in your day t day life. recalling recnts events is i say has become much common 
+
+Doctor: What do you do to feel better? For example, some people take caffeine, talk with people, or watch movies to feel better. 
+Patient: I like talking to people either my friends or my family which helps me feel better. Music my kind of way to escape from the hectic day and have some peace
+
+Doctor: Describe how supported you feel by others (e.g., friends, family) around you and how they help you? 
+Patient: My family is very supportive in my recent yars where things wasn't going the way which i could have wished for but my family on my back helped me out from those loomy days
+
+Doctor: What do you usually do when you have a bad day or when you are not able to concentrate on work? 
+Patient:  I just put my  headphones up and just go for a walk and trying to speak with myself r just chill with my friends which refereshes the mood
+
+Doctor:  Are you experiencing symptoms of stress, anxiety, or depression? If yes, describe the symptoms?
+Patient: nope
+
+Doctor:  Are you doing anything (by self or help seeking) for the ongoing stress, anxiety, or depression, if any? If yes, what? 
+Patient: nope
+

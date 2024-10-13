@@ -1,0 +1,48 @@
+Doctor: What is your patient ID?
+Patient: 1001
+
+Doctor: What is your age?
+Patient: 32
+
+Doctor: What is your gender?
+Patient: Female
+
+Patient: "Okay"
+
+Doctor: "Hello"
+
+Doctor: "What are your main problems recently?"
+Patient: "I haven't been feeling well recently, and I feel a little tight in my chest"
+
+Doctor: "Have you ever gone to the hospital to see a doctor?"
+
+Patient: "Not yet, I don't have much time recently"
+Patient: "Maybe it will take two weeks to go"
+Doctor: "Hmm, let's take some time to see if you have any emotional problems recently"
+
+Patient: "There's nothing wrong with my mood, I just feel mentally tired recently"
+Doctor: "Do you feel tired without doing anything?"
+
+Patient: "I feel like this, I don't want to move"
+Doctor: "Then do you feel like you don't want to work?"
+
+Patient: "I don't have enough energy to work"
+Patient: "Yes"
+Patient: "But I have to work"
+Patient: "It's quite stressful"
+Doctor: "Have you ever felt that you have lost interest in your past hobbies?"
+
+Patient: "I should still be interested"
+Patient: "I just don't have enough time to develop my hobbies"
+Doctor: "Sleep, eat, etc."
+
+Doctor: "Is everything normal?"
+Patient: "fairly normal"
+Doctor: "Will you feel dizzy or nauseous?"
+Patient: "I get dizzy occasionally"
+Doctor: "Do you feel lack of confidence? You are always worried about not doing well"
+
+Patient: "No, I don't have time to worry about this or that"
+Doctor: "It sounds like you are doing well lately"
+
+Doctor: "The consultation ends here"
